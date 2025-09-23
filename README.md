@@ -42,24 +42,24 @@ Ready for submission to LeetCode.
 ├── PascalTriangle.java # Problem 3 solution
 ├── BestTimeToBuyAndSellStock.java # Problem 4 solution
 ├── README.md # Project documentation
-└── .gitignore # Ignored files ```
+└── .gitignore # Ignored files```
 
 
 🚀 ## **How to Run**
 
-Clone the repository:
+# **Clone the repository**:
 
-git clone https://github.com/durg-giri123/Section_13_23131010840_DURGESH_GIRI.git
+git clone https://github.com/durg-giri123/Section_13_23131010840_DURGESH_GIRI.git'''
 
 
 
-Navigate to the project folder:
+# **Navigate to the project folder**:
 
 cd ADSA_LeetcodeQuestions_Sem_5
 
 
 
-Compile and run each problem:
+# **Compile and run each problem**:
 
 javac <ProblemFile>.java
 java <ProblemFile>```
